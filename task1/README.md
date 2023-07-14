@@ -17,7 +17,7 @@ pip install pandas sklearn matplotlib
 ## Usage
 Run the code with the following command:
 ```
-python script.py [-d DATASET]
+python random_forest.py [-d DATASET]
 ```
 - `-d DATASET, --dataset DATASET`: Path to the dataset file in CSV format. (default: "data/task1.csv")
 
