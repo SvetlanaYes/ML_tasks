@@ -42,6 +42,3 @@ To capture only the first page of a website and extract the default number of co
 ```
 python extract_colour_pallete_of_url.py --url "https://example.com"
 ```
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
