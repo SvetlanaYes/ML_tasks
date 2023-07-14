@@ -30,6 +30,3 @@ python image_for_website.py -d "A leading technology company specializing in AI 
 ```
 
 After running the script, the generated main image will be saved as `main_image.png` in the current directory.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
