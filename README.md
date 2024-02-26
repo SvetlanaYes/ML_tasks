@@ -1,1 +1,1 @@
-# ML_interview_tasks
+# ML_tasks
